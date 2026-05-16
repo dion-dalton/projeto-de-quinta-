@@ -1,2 +1,3 @@
 # projeto-de-quinta-
-aqui é aonde mais pra frente eu vou botar todo trabalho 
+atz atualmente o trabalho ta quase 100% pronto, só falta eu botar um read me e explicar a função de cada def
+
